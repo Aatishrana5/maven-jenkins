@@ -14,6 +14,6 @@ public class DController {
 	 @RequestMapping("/details")
 	 public String getDetails() 
 	 {
-		 return "This is a sample application to demonstrate Jenkins integration with Spring Boot.";
+		 return "This is a sample application to demonstrate Jenkins integration with Spring Boot. uwu";
 	 }
 	}
